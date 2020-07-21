@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Front-end Developer, University of York
+
+My personal projects are now located at https://github.com/davehilldev
